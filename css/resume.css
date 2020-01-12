@@ -54,6 +54,12 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.social-icons-row {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
